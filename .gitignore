@@ -1,0 +1,40 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# STS / Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+.springBeans
+.sts4-cache
+.apt_generated
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Build
+build/
+
+# Sonar
+.sonarlint/
+
+# Java
+*.class
+
+# Docker
+docker-compose.override.yml
